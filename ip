@@ -1,10 +1,10 @@
 /*!
-  * v2ray Subscription Worker v1.6
+  * v2ray Subscription Worker v1.7
   * Copyright 2023 Vahid Farid (https://twitter.com/vahidfarid)
   * Licensed under GPLv3 (https://github.com/vfarid/v2ray-worker-sub/blob/main/Licence.md)
   */
 
-var MAX_CONFIGS = 1000;
+var MAX_CONFIGS = 200;
 var INCLUDE_ORIGINAL = true;
 var configProviders = [
   {
